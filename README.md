@@ -1,1 +1,1 @@
-# test-cog
+# Test Azure Cognitive Service
